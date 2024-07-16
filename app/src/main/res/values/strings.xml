@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UI Basics</string>
+    
+    <array name="countires">
+        <item>MALABON</item>
+        <item>CALOOCAN</item>
+        <item>VALENZUELA</item>
+        <item>QUEZON</item>
+        <item>TONDO</item>
+    </array>
+    
+</resources>
